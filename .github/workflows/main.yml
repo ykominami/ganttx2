@@ -11,7 +11,7 @@ jobs:
     strategy:
       matrix:
         ruby:
-          - '3.1.0'
+          - '4.0.3'
     env: 
       SRC_YAML_FILE: test_data/ganttx7.yml
       SRC_YAML_FILE_2: test_data/ganttx7_2.yml
