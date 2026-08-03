@@ -79,7 +79,7 @@ GEM
       rubocop (~> 1.81)
     ruby-progressbar (1.13.0)
     stringio (3.2.0)
-    tilt (2.7.0)
+    tilt (2.8.0)
     tsort (0.2.0)
     unicode-display_width (3.2.0)
       unicode-emoji (~> 4.1)
